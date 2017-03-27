@@ -31,9 +31,19 @@ $ npm run build
 
 // [todo] 产生公共资源（如*.min.js）
 $ npm run dist
+```
 
-// 发布
-$ npm publish
+## 发布
+
+推荐使用[git-extras](https://github.com/tj/git-extras)来代替手动的执行`npm publish`命令，它有这么几点优点。
+
+- 将从上一次的`release`版本到本次提交之间的所有提交生成一个`changelog`，非常便捷
+- `git release 1.x.x`便自动完成`push`，`tag`,`npm publish`，修改`package.json`等一系列操作。
+
+
+```
+$ git changelog
+$ git release 1.x.x
 ```
 
 ## 功能
