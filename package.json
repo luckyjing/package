@@ -44,7 +44,7 @@
       "!test/setup.js"
     ],
     "source": [
-      "**/*.{js,jsx}"
+      "**/*.{js}"
     ],
     "require": [
       "babel-register"
