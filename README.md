@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/luckyjing/package">
-    <img width=110px src="https://camo.githubusercontent.com/df6f023009d1a130cb9f353aca01129c05ae9548/68747470733a2f2f706172746e6572732e6e706d6a732e636f6d2f7765656b6c792f7765656b6c792d6865616465722d626f7865732d726574696e612e706e67">
+    <img width=500px src="https://camo.githubusercontent.com/df6f023009d1a130cb9f353aca01129c05ae9548/68747470733a2f2f706172746e6572732e6e706d6a732e636f6d2f7765656b6c792f7765656b6c792d6865616465722d626f7865732d726574696e612e706e67">
   </a>
 
 Scaffold out a node module with ES6+, Babel, tape and npm scripts,inspired by [rise](https://github.com/jbucaran/rise) and (dva)[https://github.com/dvajs/dva]
