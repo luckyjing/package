@@ -24,7 +24,7 @@ $ git clone https://github.com/luckyjing/package <your_project_name>
 $ npm install
 
 // 执行test目录下的所有测试用例，并且呈现测试覆盖率报告
-$ npm run build
+$ npm run test
 
 // 模块ES6转换为ES5
 $ npm run build
